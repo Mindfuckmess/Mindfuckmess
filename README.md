@@ -1,4 +1,4 @@
-### Dando mis primeros pasos en GITHUB **negrita** 👋
+### Dando mis primeros pasos en GITHUB *cursiva* 👋
 
 <!--
 **Mindfuckmess/Mindfuckmess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
