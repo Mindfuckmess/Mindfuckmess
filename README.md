@@ -1,7 +1,6 @@
 ## ***Repositorio de prueba***
 ### Dando mis primeros pasos en GITHUB👋
 
-![Dani Urbina] (C:\Users\Came y Dani\Desktop\Dani\Otros\image_478afe54-89bc-4d4f-8232-944449dc2a2f20221025_213903.jpg)
 <!--
 **Mindfuckmess/Mindfuckmess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
